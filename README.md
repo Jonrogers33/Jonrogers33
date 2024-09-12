@@ -1,6 +1,4 @@
-<h1>Hi, I'm Jonathan, an <a href="www.www.linkedin.com/in/jonathan-rogers-32a752147
-
-">IT Professional</a></h1>
+<h1>Hi, I'm Jonathan, an IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
